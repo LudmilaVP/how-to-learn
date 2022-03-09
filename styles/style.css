@@ -112,9 +112,7 @@ div, section, p, img, h1, h2, h3, h4 {
 /*DESCRIPTION*/
 
 /*DIGITS*/
-.digits {
-  position: relative;
-}
+
 .digits__table {
   margin-left: auto;
   margin-right: auto;
