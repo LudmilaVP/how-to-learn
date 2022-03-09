@@ -80,7 +80,7 @@ div, section, p, img, h1, h2, h3, h4 {
   flex-direction: row;
   justify-content: space-between;
   position: relative;
-  width: 80%; 
+  width: 80%;
   margin: 100px auto 100px auto;
 }
 .two-columns__brief {
@@ -95,7 +95,7 @@ div, section, p, img, h1, h2, h3, h4 {
   flex-direction: column;
   justify-content: space-between;
   flex-basis: 80%;
-  min-width: 784px
+  min-width: 784px;
 }
 .two-columns__paragraph {
   line-height: 34px;
