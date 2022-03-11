@@ -185,7 +185,7 @@ div, section, p, img, ul, h1, h2, h3, h4 {
   margin-bottom: 20px;
 }
 
-.table__text :last-child {
+.table__text:last-child {
   margin-bottom: 0;
 }
 /*DIGITS*/
@@ -352,7 +352,7 @@ background-image: url(../images/logo_place_footer.svg);
   margin-top: 0;
   line-height: 30px;
   font-size: 18px;
-  font-weight: 600;
+  font-weight: 700;
 }
 
 .footer__column-links {
@@ -363,12 +363,7 @@ background-image: url(../images/logo_place_footer.svg);
   list-style-type: none;
 }
 
-.footer__column-links a:link {
-  color: #FFF;
-  text-decoration: none;
-}
-
-.footer__column-links a:visited {
+.footer__column-link {
   color: #FFF;
   text-decoration: none;
 }
@@ -377,16 +372,6 @@ background-image: url(../images/logo_place_footer.svg);
   margin-left: auto;
   margin-right: auto;
   flex-shrink: 2;
-}
-
-.footer__content-social a:link {
-  color: #FFF;
-  text-decoration: none;
-}
-
-.footer__content-social a:visited {
-  color: #FFF;
-  text-decoration: none;
 }
 
 .footer__social-icon {
