@@ -1,15 +1,18 @@
-# Лендинг для Яндекс Практикума - Научиться учиться.   
+# Научиться учиться.   
 
-Проектная работа представляет собой одностраничный сайт.  
+"How to learn" - это типовой однастраничный сайт про методики обучения. Сайт создан по методологии BEM с файловой структурой Nested BEM.  
 
 ## Стек  
 * HTML  
 * CSS  
 
 ## Технологии  
-* Flexbox  
-* Анимация CSS  
-* Файловая структура по Nested БЭМ  
+* Flexbox
+* Positioning Elements
+* Animation and Transform using CSS
+* Iframe
+* BEM Methodology
+* File Structure and File Paths (Nested BEM)
+* Git
 
-## Планы по доработке проекта  
-* Адаптация сайта для разных устройств  
+[Проектная работа на GitHub Pages](https://ludmilavp.github.io/how-to-learn/index.html) 
