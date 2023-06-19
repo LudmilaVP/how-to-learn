@@ -1,13 +1,16 @@
-# Название проекта: Научиться учиться.   
+# How to learn   
 
-## Описание
-"How to learn" - это типовой однастраничный сайт про методики обучения. Сайт создан по методологии BEM с файловой структурой Nested BEM.  
+## Description
 
-## Стек  
+"How to learn" - this is a typical one-page website about teaching methods. The site was created using the BEM methodology with the Nested BEM file structure.
+
+## Stack
+
 * HTML  
 * CSS  
 
-## Технологии  
+## Implementation
+
 * Flexbox
 * Positioning Elements
 * Animation and Transform using CSS
@@ -17,4 +20,4 @@
 * Git
 
 
-[Перейти на сайт можно здесь](https://ludmilavp.github.io/how-to-learn/index.html) 
+[How to open project](https://ludmilavp.github.io/how-to-learn/index.html) 
